@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DG9DDF
-- 👀 I’m interested in programming arduino devices and electronic hartware
+- 👀 I’m interested in programming arduino devices and electronic hardware
 - 🌱 I’m currently learning english and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
